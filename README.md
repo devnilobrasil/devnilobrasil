@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Nilo, I am Brazilian but currently live in<br>Portugal. I have a Bachelor's degree in Business Administration<br>and a Master's degree in Sports Management. I am currently<br>transitioning my career to mobile development, specifically<br>Android.<br><br>Today I am self-studying the Kotlin language and the Android<br>Studio IDE.
+Hello, my name is Nilo, I am Brazilian but currently live in<br>Portugal. I have a Bachelor's degree in Business Administration<br>and a Master's degree in Sports Management. I am currently<br>transitioning my career to mobile development, specifically<br>Android.<br><br>Today I am self-studying the Kotlin language and the Android<br>Studio.
 
 
 ## 🌐 Socials:
