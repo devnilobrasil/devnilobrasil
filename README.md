@@ -1,8 +1,8 @@
 # About Me
-👋 Hello! My name is Nilo, and I'm originally from Brazil, but I currently reside in Portugal. I've been passionate about web development since 2023, and I'm dedicated to honing my skills as a Frontend Developer. Every day, I strive to deepen my knowledge and expertise in this dynamic field.
+👋 Hey there! I'm Nilo, a frontend developer originally from Brazil but now calling Portugal home. Since 2023, I've been diving into the world of web development, focusing on making websites look and feel awesome.
 
 # What I Do
-🛠️ As a Frontend Developer, I specialize in crafting engaging and user-friendly web experiences. My expertise includes HTML, CSS, JavaScript, and various frontend frameworks such as React.js and Vue.js. I enjoy turning creative ideas into functional and visually appealing interfaces.
+🛠️ As a Frontend Developer, I spend my days crafting websites that are not only functional but also easy on the eyes. Using HTML, CSS, and JavaScript, I build interfaces that people love to use. I'm particularly fond of React.js and React Native for bringing projects to life.
 
 # My Projects
 🚀 I'm constantly working on personal and collaborative projects to sharpen my skills and explore new technologies. You're welcome to explore my GitHub repositories to see the projects I've been involved in. Your feedback and contributions are always appreciated!
