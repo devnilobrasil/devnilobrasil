@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-e5383b?style=for-the-badge&logo=linkedin&logoColor=0d0e0f)](https://www.linkedin.com/in/nilo-brasil/)
 
  I am a frontend developer with 2 years of experience, specializing in building clean, responsive, and intuitive user interfaces
- using TypeScript, React.js, PayloadCMS, Supabase, TailwindCSS and Next.js. Since October 2023, I have been working in the iGaming industry,
+ using TypeScript, React.js, PayloadCMS, Node.js, Figma, Supabase, TailwindCSS and Next.js. Since October 2023, I have been working in the iGaming industry,
  where I contribute to developing projects focused on performance optimization and enhancing user experience.
  In addition to my professional work, I continuously develop personal projects that allow me to explore technologies and
  deepen my technical expertise through practical application and strategic problem-solving.
