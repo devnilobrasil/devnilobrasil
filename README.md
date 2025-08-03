@@ -22,8 +22,8 @@
 
 ## Stats 📈
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnilobrasil&hide_title=true&hide_border=true&theme=dark&bg_color=0d0e0f&text_color=e5383b&icon_color=e5383b&title_color=faa307)](https://github.com/devnilobrasil)
+<img src="https://github-readme-stats.vercel.app/api?username=devnilobrasil&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&bg_color=0d0e0f&text_color=e5383b&icon_color=e5383b&title_color=faa307&hide_border=true" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devnilobrasil&layout=compact&card_width=320&langs_count=10&theme=dark&bg_color=0d0e0f&text_color=fff&title_color=faa307&hide_title=true&hide_border=true" height="150" alt="languages graph" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devnilobrasil&hide_border=true&layout=compact&theme=dark&bg_color=0d0e0f&text_color=fff&hide_title=true)](https://github.com/devnilobrasil)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devnilobrasil&hide_border=true&theme=dark&background=0d0e0f&fire=e5383b&currStreakLabel=e5383b)](https://git.io/streak-stats)
